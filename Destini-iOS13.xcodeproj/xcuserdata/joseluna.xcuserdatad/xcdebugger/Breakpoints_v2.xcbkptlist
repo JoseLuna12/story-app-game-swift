@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0086A583-EFE2-436F-9979-063204328DD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E530B7FD-A2FD-4D50-94BB-1432241E9BDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Destini-iOS13/Model/StoryBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "stories"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E530B7FD-A2FD-4D50-94BB-1432241E9BDF - 7c2ecfdef81dfc4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.StoryBrain.init() -&gt; Destini_iOS13.StoryBrain"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseluna/code/iOS/Destini-iOS13/Destini-iOS13/Model/StoryBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "E530B7FD-A2FD-4D50-94BB-1432241E9BDF - f922735d86c9e559"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.StoryBrain.init(storyIndex: Swift.Int) -&gt; Destini_iOS13.StoryBrain"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseluna/code/iOS/Destini-iOS13/Destini-iOS13/Model/StoryBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
